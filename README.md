@@ -36,7 +36,7 @@ A small sample dataset is included in:
 data/sample_dataset.csv
 ```
 
-The complete automated dataset generation scripts are not publicly shared.A sample simulink model of the healthy condition is in:
+The complete automated dataset generation scripts are not publicly shared.A sample simulink model of the healthy condition is:
 
 ![Simulink Model](assets/Healthy_Simulink_Model.png)
 
