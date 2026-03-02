@@ -1,0 +1,13 @@
+# dataset
+*.mat
+data/full_dataset/
+
+# models
+*.h5
+*.keras
+
+# python
+__pycache__/
+*.pyc
+.env
+.venv
